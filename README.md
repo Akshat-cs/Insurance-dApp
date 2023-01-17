@@ -3,6 +3,10 @@
 Agriculture is the lifeline of many economies which contribute highly towards the country's GDP, employment and sustains the population of the country. However, agriculture production comes with various risk factors beyond human control. Farmers are highly exposed to risk and thus the need for financial instruments such as crop insurance comes into play. The claim payout procedure is very lengthy, tedious and there is no proper and adequate provision of security for crops grown by farmers and despite increasing vulnerability, they have not yet fully developed the capacity to mitigate risk effectively.
 Thus Assuarance presents a decentralized peer-to-peer crop insurance framework which enables to overcome the current disadvantages by securing farmers’ interests, eliminating intermediaries and providing a secure, standardized, and transparent system that does not hinder any information from stakeholders.
 
+## Demo Video 
+
+https://drive.google.com/file/d/15fAUKStRlB4YIjtJm361qxOdYM2XCW9J/view?usp=sharing
+
 ## Objectives
 
 The prime objective of Assuarance is to resolve the shortcomings present in the current scenario. Addressing the shortcomings, the following are our objectives:
